@@ -1,12 +1,15 @@
-
+---
 title: The Musings of Yefim Vedernikoff
-
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 twitter_username: johndoe
-
 github_username: johndoe
-
 email: john@doe.com
-
 baseurl: "/intransigent_carousel"
-
 remote_theme: yefim/yefeme
